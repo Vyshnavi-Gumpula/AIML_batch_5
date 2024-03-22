@@ -10,3 +10,5 @@ Assignment2-2:[https://github.com/Vyshnavi-Gumpula/AIML_batch_5/blob/main/Assign
 Assignment2-3:[https://github.com/Vyshnavi-Gumpula/AIML_batch_5/blob/main/Assignment2-3.ipynb]
 
 Assignment4:[https://github.com/Vyshnavi-Gumpula/AIML_batch_5/blob/main/Assignment4.ipynb]
+
+Assignment5:[https://github.com/Vyshnavi-Gumpula/AIML_batch_5/blob/main/Assignment_5.ipynb]
