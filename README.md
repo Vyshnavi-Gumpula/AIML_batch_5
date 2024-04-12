@@ -19,3 +19,5 @@ Assignment6:[https://github.com/Vyshnavi-Gumpula/AIML_batch_5/blob/main/Assignmn
 
 Assignment7:[https://github.com/Vyshnavi-Gumpula/AIML_batch_5/blob/main/Assignment_7.ipynb]
 
+Assignment8:[https://github.com/Vyshnavi-Gumpula/AIML_batch_5/blob/main/Assignment_8.ipynb]
+
